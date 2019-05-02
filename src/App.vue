@@ -12,6 +12,13 @@
                     </transition>
                 </div>
             </div>
+            <div class="hero-foot" style="margin-bottom: 5px;">
+                <div class="content has-text-centered">
+                    <p>&#169; 2019 | <a href="https://tirthbal.in">Tirth Bal</a> | <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY NC SA 4.0</a> |
+                    Inspired from <a href="https://themes.gohugo.io/hugo-coder/">Hugo Coder Theme</a> | <br> Powered by Vue and Bulma | Made with &#9829;
+                    </p>
+                </div>
+            </div>
         </section>
     </div>
 </template>
